@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Demo Politiķe</title>
+  <desc id="desc">Stilizēts viettura portrets formālā apģērbā.</desc>
+  <rect width="900" height="1100" fill="#edf2f7"/>
+  <path d="M0 760h900v340H0z" fill="#d72638"/>
+  <circle cx="452" cy="350" r="150" fill="#e9b995"/>
+  <path d="M285 358c8-141 78-215 210-221 107-5 181 62 208 200-72-42-146-48-222-16-65 27-130 40-196 37z" fill="#d9d2c8"/>
+  <path d="M248 944c42-204 130-319 264-319 132 0 221 115 268 319z" fill="#172119"/>
+  <path d="M361 617c54 44 113 44 173 0v110c-58 39-116 39-173 0z" fill="#d8a27f"/>
+  <path d="M404 944l46-238 49 238z" fill="#ffffff"/>
+  <circle cx="393" cy="365" r="16" fill="#172119"/>
+  <circle cx="512" cy="365" r="16" fill="#172119"/>
+  <path d="M397 458c38 24 78 24 119 0" fill="none" stroke="#172119" stroke-width="17" stroke-linecap="round"/>
+</svg>

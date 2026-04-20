@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Demo Pavārs</title>
+  <desc id="desc">Stilizēts viettura portrets ar pavāra cepuri.</desc>
+  <rect width="900" height="1100" fill="#f0efe7"/>
+  <circle cx="342" cy="220" r="82" fill="#fff"/>
+  <circle cx="449" cy="176" r="102" fill="#fff"/>
+  <circle cx="558" cy="220" r="82" fill="#fff"/>
+  <path d="M286 229h328v156H286z" fill="#fff"/>
+  <circle cx="450" cy="396" r="146" fill="#c98a69"/>
+  <path d="M304 367c42-65 95-94 158-88 66 6 114 34 143 85-62-18-116-14-162 12-45 24-91 21-139-9z" fill="#41332d"/>
+  <path d="M252 928c42-205 130-318 264-318 131 0 219 113 268 318z" fill="#217a57"/>
+  <path d="M360 620c54 42 112 42 172 0v105c-59 39-115 39-172 0z" fill="#b9785b"/>
+  <circle cx="392" cy="402" r="17" fill="#172119"/>
+  <circle cx="509" cy="402" r="17" fill="#172119"/>
+  <path d="M392 491c37 22 78 22 119 0" fill="none" stroke="#172119" stroke-width="17" stroke-linecap="round"/>
+</svg>

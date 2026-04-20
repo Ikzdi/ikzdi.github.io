@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Demo Influenceris</title>
+  <desc id="desc">Stilizēts viettura portrets ar sociālo tīklu simboliem.</desc>
+  <rect width="900" height="1100" fill="#1a1f1d"/>
+  <rect x="95" y="95" width="710" height="910" rx="46" fill="#ffffff"/>
+  <rect x="145" y="150" width="610" height="730" rx="28" fill="#dfe9dc"/>
+  <circle cx="452" cy="365" r="145" fill="#d49a78"/>
+  <path d="M302 331c34-118 126-170 252-133 70 21 116 70 137 149-76-35-144-37-204-8-67 33-129 30-185-8z" fill="#21251f"/>
+  <path d="M270 900c43-187 126-292 250-292 119 0 202 105 246 292z" fill="#e3b341"/>
+  <path d="M364 615c53 42 107 42 162 0v98c-55 38-108 38-162 0z" fill="#c48668"/>
+  <circle cx="395" cy="374" r="16" fill="#172119"/>
+  <circle cx="512" cy="374" r="16" fill="#172119"/>
+  <path d="M395 462c37 24 78 24 119 0" fill="none" stroke="#172119" stroke-width="17" stroke-linecap="round"/>
+  <circle cx="690" cy="225" r="34" fill="#d72638"/>
+  <circle cx="214" cy="805" r="28" fill="#217a57"/>
+</svg>

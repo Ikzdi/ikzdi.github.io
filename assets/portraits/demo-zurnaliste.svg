@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Demo Žurnāliste</title>
+  <desc id="desc">Stilizēts viettura portrets ar mediju tēmu.</desc>
+  <rect width="900" height="1100" fill="#ffffff"/>
+  <path d="M60 80h780v770H60z" fill="#dfe9dc"/>
+  <path d="M120 145h660v75H120zm0 110h390v40H120zm0 72h540v40H120zm0 72h475v40H120z" fill="#172119" opacity=".22"/>
+  <circle cx="455" cy="375" r="148" fill="#efc2a1"/>
+  <path d="M294 397c-23-138 37-230 168-238 128-8 210 70 204 223-77-64-150-81-218-51-57 25-107 44-154 66z" fill="#2f211c"/>
+  <path d="M275 936c39-201 128-317 264-317 126 0 213 116 256 317z" fill="#d72638"/>
+  <path d="M361 621c57 45 113 45 170 0v106c-58 40-113 40-170 0z" fill="#dea987"/>
+  <circle cx="397" cy="381" r="16" fill="#172119"/>
+  <circle cx="514" cy="381" r="16" fill="#172119"/>
+  <path d="M393 471c46 26 88 26 129 0" fill="none" stroke="#172119" stroke-width="17" stroke-linecap="round"/>
+</svg>

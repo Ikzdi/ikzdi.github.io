@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Demo Mūziķe</title>
+  <desc id="desc">Stilizēts viettura portrets ar mūzikas tēmu.</desc>
+  <rect width="900" height="1100" fill="#f3f7f0"/>
+  <path d="M0 760c174-72 344-76 510-12 128 49 258 48 390-3v355H0z" fill="#217a57"/>
+  <path d="M648 132v352c0 56-49 101-110 101s-110-45-110-101 49-101 110-101c28 0 54 10 73 26V132z" fill="#d72638"/>
+  <circle cx="430" cy="360" r="152" fill="#d69b7b"/>
+  <path d="M258 362c24-155 124-215 251-193 88 15 145 68 165 161-64-50-139-62-222-39-72 20-132 47-194 71z" fill="#4b2f24"/>
+  <path d="M267 920c42-198 129-307 262-307 126 0 211 109 256 307z" fill="#e3b341"/>
+  <path d="M344 629c58 43 117 43 177 0v98c-60 42-119 42-177 0z" fill="#c68468"/>
+  <circle cx="379" cy="369" r="16" fill="#172119"/>
+  <circle cx="498" cy="369" r="16" fill="#172119"/>
+  <path d="M379 461c40 27 85 27 130 0" fill="none" stroke="#172119" stroke-width="17" stroke-linecap="round"/>
+</svg>

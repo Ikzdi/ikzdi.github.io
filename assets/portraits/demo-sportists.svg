@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Demo Sportists</title>
+  <desc id="desc">Stilizēts viettura portrets ar sporta noskaņu.</desc>
+  <rect width="900" height="1100" fill="#e8eef4"/>
+  <path d="M0 0h900v250H0z" fill="#d72638"/>
+  <path d="M138 196h624v78H138z" fill="#ffffff" opacity=".8"/>
+  <circle cx="447" cy="346" r="150" fill="#c88968"/>
+  <path d="M292 300c46-118 144-166 286-115 53 19 89 61 110 126-77-25-143-26-197-3-70 29-134 27-199-8z" fill="#2c2d2a"/>
+  <path d="M244 938c37-205 125-318 265-318 132 0 221 113 267 318z" fill="#217a57"/>
+  <path d="M351 608c51 47 111 47 169 0v111c-57 40-113 40-169 0z" fill="#b9775b"/>
+  <circle cx="386" cy="361" r="17" fill="#172119"/>
+  <circle cx="505" cy="361" r="17" fill="#172119"/>
+  <path d="M382 454c41 23 86 23 128 0" fill="none" stroke="#172119" stroke-width="18" stroke-linecap="round"/>
+  <path d="M346 940h306l-35 160H382z" fill="#ffffff" opacity=".8"/>
+</svg>

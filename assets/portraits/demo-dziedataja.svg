@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Demo Dziedātāja</title>
+  <desc id="desc">Stilizēts viettura portrets ar skatuves mikrofonu.</desc>
+  <rect width="900" height="1100" fill="#102820"/>
+  <path d="M0 0h900v1100H0z" fill="#217a57" opacity=".35"/>
+  <path d="M700 180h55v550h-55z" fill="#e3b341"/>
+  <circle cx="728" cy="150" r="78" fill="#d72638"/>
+  <circle cx="445" cy="365" r="150" fill="#efc2a1"/>
+  <path d="M275 382c-7-151 68-235 211-236 120-1 194 76 205 218-78-58-153-69-226-34-64 31-127 48-190 52z" fill="#3a241d"/>
+  <path d="M250 936c43-205 132-318 266-318 130 0 218 113 268 318z" fill="#d72638"/>
+  <path d="M358 620c57 44 114 44 173 0v106c-58 40-115 40-173 0z" fill="#dea987"/>
+  <circle cx="389" cy="378" r="16" fill="#172119"/>
+  <circle cx="507" cy="378" r="16" fill="#172119"/>
+  <path d="M393 477c39 36 80 36 121 0" fill="none" stroke="#172119" stroke-width="18" stroke-linecap="round"/>
+</svg>

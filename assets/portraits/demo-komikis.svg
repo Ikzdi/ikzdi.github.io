@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Demo Komiķis</title>
+  <desc id="desc">Stilizēts viettura portrets ar skatuves gaismām.</desc>
+  <rect width="900" height="1100" fill="#2d1f28"/>
+  <path d="M450 0 170 790h560z" fill="#e3b341" opacity=".35"/>
+  <circle cx="447" cy="365" r="150" fill="#d89c7a"/>
+  <path d="M294 337c41-118 132-171 272-127 61 19 104 64 128 135-85-24-155-20-210 12-68 39-131 32-190-20z" fill="#23251f"/>
+  <path d="M247 938c39-206 128-320 267-320 130 0 219 114 269 320z" fill="#d72638"/>
+  <path d="M360 620c54 44 112 44 171 0v105c-58 41-115 41-171 0z" fill="#c78968"/>
+  <circle cx="388" cy="377" r="17" fill="#172119"/>
+  <circle cx="508" cy="377" r="17" fill="#172119"/>
+  <path d="M379 472c50 48 103 48 153 0" fill="none" stroke="#172119" stroke-width="19" stroke-linecap="round"/>
+  <path d="M326 820h245l-37 100H363z" fill="#ffffff" opacity=".92"/>
+</svg>

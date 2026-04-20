@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Demo Režisors</title>
+  <desc id="desc">Stilizēts viettura portrets ar kino klapīti.</desc>
+  <rect width="900" height="1100" fill="#f6f8f5"/>
+  <path d="M90 120h720v200H90z" fill="#172119"/>
+  <path d="M115 120l80 200m80-200 80 200m80-200 80 200m80-200 80 200m80-200 80 200" stroke="#fff" stroke-width="30"/>
+  <circle cx="450" cy="430" r="148" fill="#d7a07f"/>
+  <path d="M292 394c22-127 100-187 235-171 85 10 144 59 177 148-77-43-147-49-210-19-67 31-134 45-202 42z" fill="#4b4f45"/>
+  <path d="M252 946c42-202 132-316 266-316 130 0 218 114 268 316z" fill="#217a57"/>
+  <path d="M360 628c55 42 111 42 168 0v102c-57 38-112 38-168 0z" fill="#c88d6d"/>
+  <circle cx="391" cy="438" r="16" fill="#172119"/>
+  <circle cx="510" cy="438" r="16" fill="#172119"/>
+  <path d="M392 524c41 24 82 24 123 0" fill="none" stroke="#172119" stroke-width="17" stroke-linecap="round"/>
+</svg>
